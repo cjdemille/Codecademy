@@ -16,14 +16,27 @@ h2{
     color: #67c9d1;
     font-size:24px;
 }
+
 table{
     margin-left:auto;
     margin-right:auto;
+    border: 1px solid #3349c5;
+    border-collapse:collapse;
+    white-space: nowrap;
 }
-th{
-    background-color:#f8fff7;
+thead{
+    background-color:#67c9d1;
+    color:#67c9d1;
+}
+.header{
+    backgroundcolor:#67c9d1 !important;
 }
 .code{
     font-family:monospace;
     background-color:#fffd8b;
+}
+td{
+    padding:3%;
+    border: 1px solid #3349c5;
+    
 }
