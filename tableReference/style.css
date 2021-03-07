@@ -1,0 +1,29 @@
+*{
+    font-family:arial;
+    background-color:#f8fff7;
+    font-size:16px;
+}
+h1, h2{
+    text-align:center;
+}
+
+h1{
+    color:#3349c5;
+    font-size:36px; 
+}
+
+h2{
+    color: #67c9d1;
+    font-size:24px;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+}
+th{
+    background-color:#f8fff7;
+}
+.code{
+    font-family:monospace;
+    background-color:#fffd8b;
+}
